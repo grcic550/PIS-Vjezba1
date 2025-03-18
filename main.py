@@ -9,4 +9,6 @@ def nova_funkcija():
 # Ovo je moj komentar - VašeIme
 def nova_metoda(self):
     return "Ovo je nova metoda"
+def nova_metoda():
+    return "Ovo je nova metoda 2.FILIP"
 
